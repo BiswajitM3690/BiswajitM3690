@@ -14,8 +14,8 @@
 - 🌱 I’m exploring **Gen AI, LangChain, RAG systems, and vector databases**
 - 💬 Ask me about **Python, Django, FastAPI, AI/ML, React, Next.js**
 - 🧠 Always learning and applying **state-of-the-art ML & web technologies**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 📝 Checkout my portfolio at: [your-portfolio.com](https://your-portfolio.com)
+- 📫 How to reach me: [biswajitm3690@gmail.com](mailto:biswajitm3690@gmail.com)
+- 📝 Checkout my portfolio at: [https://stackoverflow.com/users/30625336/biswajit-mohapatra]([https://your-portfolio.com](https://stackoverflow.com/users/30625336/biswajit-mohapatra))
 
 ---
 
@@ -66,4 +66,4 @@
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Biswajit Mohapatra](https://github.com/BiswajitM3690/BiswajitM3690)
